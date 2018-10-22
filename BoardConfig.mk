@@ -20,6 +20,3 @@ TARGET_SPECIFIC_HEADER_PATH += $(DEVICE_PATH)/include
 
 # Inherit device-specific board fragments
 include $(DEVICE_PATH)/board/*.mk
-
-# Inherit the proprietary files
--include vendor/xiaomi/rolex/BoardConfigVendor.mk
