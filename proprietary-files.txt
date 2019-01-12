@@ -2164,19 +2164,20 @@ vendor/lib64/libsc-a3xx.so|b5adb05d08af30107dcb7cad11abf447322235c8
 vendor/lib/libhdr_tm.so|9388bf49e38476851a73c8877c78810bca2252d7
 vendor/lib64/libhdr_tm.so|ff0d2c85b431163546a79de861e1993fc9886e6a
 
-# Graphics (SDM) - from riva - 8.11.6 (OPM1.171019.026)
--vendor/lib/libsdm-disp-vndapis.so|67ddc2381bbee5d16be33a703a5207bcb0664bec
--vendor/lib64/libsdm-disp-vndapis.so|a56798638ef102240d1e97471d2abdc232eea771
-vendor/lib/libscalar.so|71e644380e2712a86aafbdb1299ff5cb19e3c6fd
-vendor/lib/libsdm-color.so|4fbbeebe2934b177589c5666add8e0b3f8a2ffbd
-vendor/lib/libsdm-diag.so|11ceab30b31ca6654762851a007332c68e366ade
-vendor/lib/libsdmextension.so|f25ca3fa9aa54ad1bb9c09a65fea99deea80a147
-vendor/lib/libtinyxml2_1.so|3ee768813f5b351b71bd7dd2367b13a3698a591a
-vendor/lib64/libscalar.so|c88e1b1e04176b5a71c2de48980e97b5279e2313
-vendor/lib64/libsdm-color.so|12dc97a4ab4d6aefd09e728b7dcf7756c36c2569
-vendor/lib64/libsdm-diag.so|a6550da1acd9f6159fad33a8b8837283c7632a2e
-vendor/lib64/libsdmextension.so|ae61fa542baf72c02a2e70099a1d9c958139b495
-vendor/lib64/libtinyxml2_1.so|5ffb12fd2162910fc95be463fcde04ab5c427045
+# Graphics (SDM) - from marmite - OPM5.171019.017
+-vendor/lib/libsdm-disp-vndapis.so|41d866c7f7297b02a7d63bf499fa7ea21f422eca
+-vendor/lib64/libsdm-disp-vndapis.so|51e2bc8715992e4b1edc9b6da00d7736ea81e449
+vendor/lib/libqseed3.so
+vendor/lib/libsdm-color.so|97293223d9e0cc7387515a5090022d177d3821de
+vendor/lib/libsdm-diag.so|c33bdf9a0a4aa9f0385f3d6772b37fd9034fa169
+vendor/lib/libsdmextension.so|75b082c542b1c9e3d31a5f155a834b06b18a7588
+vendor/lib/libtinyxml2_1.so|75c2e17a4677bcb21d1ac1ed411b92820fdfa299
+vendor/lib64/libqseed3.so
+vendor/lib64/libscalar.so|778da7ece21c97b79e8486754f60e1cf7ebe11db
+vendor/lib64/libsdm-color.so|f6b415575c02a049362abcebf0ba5bc0b650cd2b
+vendor/lib64/libsdm-diag.so|b0578da9de5482f00201615a566e406de867865f
+vendor/lib64/libsdmextension.so|3c904206ebffde26434f335f786c7ed70c8e5406
+vendor/lib64/libtinyxml2_1.so|c9624690a608cb858888d9461b97d40f6e54cb6e
 
 # Graphics (Vulkan) - from riva - 8.11.6 (OPM1.171019.026)
 vendor/lib/hw/vulkan.msm8937.so|49c0f0bb9d9b166e3a3eb2299bda19cebd6679ea
