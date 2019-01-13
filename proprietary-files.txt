@@ -2164,20 +2164,19 @@ vendor/lib64/libsc-a3xx.so|b5adb05d08af30107dcb7cad11abf447322235c8
 vendor/lib/libhdr_tm.so|9388bf49e38476851a73c8877c78810bca2252d7
 vendor/lib64/libhdr_tm.so|ff0d2c85b431163546a79de861e1993fc9886e6a
 
-# Graphics (SDM) - from marmite - OPM5.171019.017
--vendor/lib/libsdm-disp-vndapis.so|41d866c7f7297b02a7d63bf499fa7ea21f422eca
--vendor/lib64/libsdm-disp-vndapis.so|51e2bc8715992e4b1edc9b6da00d7736ea81e449
-vendor/lib/libqseed3.so
-vendor/lib/libsdm-color.so|97293223d9e0cc7387515a5090022d177d3821de
+# Graphics (SDM) - LA.UM.7.5.r1-03700-8x96.0
+vendor/lib/libscalar.so|cad128a6e71195b4ad38494bc0382bf80e1fb0b2
+vendor/lib/libsdm-color.so|b13ab5f965f5bb8f40207879415cb1adbb55da42
 vendor/lib/libsdm-diag.so|c33bdf9a0a4aa9f0385f3d6772b37fd9034fa169
-vendor/lib/libsdmextension.so|75b082c542b1c9e3d31a5f155a834b06b18a7588
+-vendor/lib/libsdm-disp-vndapis.so|6c4233ea3676643bc9658c25cfad7edd45c49362
+vendor/lib/libsdmextension.so|a8659e7e0df5f1e20266ede1331da0660e0fe260
 vendor/lib/libtinyxml2_1.so|75c2e17a4677bcb21d1ac1ed411b92820fdfa299
-vendor/lib64/libqseed3.so
-vendor/lib64/libscalar.so|778da7ece21c97b79e8486754f60e1cf7ebe11db
-vendor/lib64/libsdm-color.so|f6b415575c02a049362abcebf0ba5bc0b650cd2b
-vendor/lib64/libsdm-diag.so|b0578da9de5482f00201615a566e406de867865f
-vendor/lib64/libsdmextension.so|3c904206ebffde26434f335f786c7ed70c8e5406
-vendor/lib64/libtinyxml2_1.so|c9624690a608cb858888d9461b97d40f6e54cb6e
+vendor/lib64/libscalar.so|490cc7447863b3279771ad99e92a5625525db055
+vendor/lib64/libsdm-color.so|9bb3f5147c277eae08c7f918e7de3bd2fccf1f74
+vendor/lib64/libsdm-diag.so|7ab5d2a980029ac9bd20fe68656823b21e483e11
+-vendor/lib64/libsdm-disp-vndapis.so|6ae24866bbd413ed112778650c8fd7a2631cb1a9
+vendor/lib64/libsdmextension.so|e91aaf852df780e42bb083c3089f5b42c87c49f7
+vendor/lib64/libtinyxml2_1.so|b743b93bbb47bb2d80322fcfb985b7b8c696fa1b
 
 # Graphics (Vulkan) - from riva - 8.11.6 (OPM1.171019.026)
 vendor/lib/hw/vulkan.msm8937.so|49c0f0bb9d9b166e3a3eb2299bda19cebd6679ea
