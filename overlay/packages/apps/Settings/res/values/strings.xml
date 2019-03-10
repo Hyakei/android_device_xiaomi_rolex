@@ -1,0 +1,3 @@
+overlay/packages/apps/Settings/res/values/strings.xml
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="viper_maintainer_summary">Eko Sugiharto (TambahRam)</string>
