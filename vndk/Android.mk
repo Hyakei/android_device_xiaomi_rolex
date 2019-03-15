@@ -26,7 +26,10 @@ VNDK_SP_LIBRARIES := \
     liblzma \
     libpng \
     libunwind \
+    libunwindstack \
     libutils \
+    libutilscallstack \
+    libdexfile \
     libz
 
 EXTRA_VENDOR_LIBRARIES := \
